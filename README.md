@@ -28,16 +28,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/OxaGbMV.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [ezgif](http://www.ezgif.com/video-to-gif).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-A challenge I faced while working on this app was understanding UIKit. This was the first time I was actually using Swift so I had to go through a quick online class about it. 
-Although, the syntax for Swift was very similar to the other programming languages I have used, there were still new coding concepts I had to learn on my own to get a better understanding.
+A challenge I faced while working on this app was understanding UIKit. This was the first time I was actually using Swift so I had to go through a quick online class about it. Although, the syntax for Swift was very similar to the other programming languages I have used, there were still new coding concepts I had to learn on my own to get a better understanding.
 
 ## License
 
