@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Tip Calculator
 //
-//  Created by Tufayel Ahmed on 12/19/20.
-//
 
 import UIKit
 
